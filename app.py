@@ -14,7 +14,7 @@ quiz_data = [
 ]
 
 def main():
-    st.title("Quiz App")
+    st.title("🥇📝--MITZ Session Feedback AI--📝🥇")
 
     question_flags = [False] * len(quiz_data)
 
